@@ -1,16 +1,7 @@
-# my_flutter_app
+# portfolio_5510524
 
-A new Flutter project.
+Neues Flutter Projekt.
+Dieses Flutter Projekt soll einen Counter beinhalten der sich jedes mal um 1 erhöht wenn man auf den Button untn rechts klickt.
 
-## Getting Started
+Bevor dies möglich ist, sollte Android Studio installiert sein, ein neues Flutter Projekt erstellt werden und die Anmeldung bei Git erfolgen. Nachdem man sich bei Git ein neues Repository ertsellt hat, kann man nun das Flutter Projekt bei Git hochladen. Zum ausführen des Programms wird die nun die Main- Methode benutzt. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
